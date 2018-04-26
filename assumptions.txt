@@ -1,0 +1,5 @@
+It is assumed that if deviation from time table is 
+>0 and <100 - OnTime
+>100 - Late
+< 0 - Early
+null - Unknown
